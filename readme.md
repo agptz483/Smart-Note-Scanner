@@ -9,7 +9,7 @@
 ### 本地运行  
 1. **克隆项目**  
    ```bash  
-   git clone [https://github.com/你的用户名/你的仓库名.git](https://github.com/你的用户名/你的仓库名.git)  
+   git clone [https://github.com/agptz483/Smart-Note-Scanner.git](https://github.com/agptz483/Smart-Note-Scanner.git)  
    cd 你的仓库名  
    ```
 2. **安装依赖**  
@@ -20,13 +20,13 @@ pip install -r requirements.txt
 ```Bash  
 streamlit run app.py  
 ```  
-🛠️ 技术栈    
+## 🛠️ 技术栈    
 UI 框架: Streamlit  
 图像处理: OpenCV (Open Source Computer Vision Library)  
 矩阵运算: Numpy  
 交互组件: streamlit-image-coordinates  
 
-📝 使用提示  
+## 📝 使用提示  
 为了获得最佳效果，请按照以下顺序点击原图：  
 左上角 -> 2. 右上角 -> 3. 右下角 -> 4. 左下角  
 
