@@ -1,0 +1,5 @@
+new_scan_venv/
+.env
+.env.local
+.env.*.local
+*.pem
