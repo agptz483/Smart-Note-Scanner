@@ -1,5 +1,7 @@
 # 📸 智能笔记透视矫正器 (Smart Note Scanner)  
-这是一个基于 **Streamlit** 和 **OpenCV** 开发的轻量级 Web 工具。它可以帮助你将会议、课堂上侧拍的、存在透视畸形的笔记或屏幕照片，矫正为正视角的、工整的电子笔记。  
+这是一个基于 **Streamlit** 和 **OpenCV** 开发的轻量级 Web 工具。  
+它可以帮助你将会议、课堂上侧拍的、存在透视畸形的笔记或屏幕照片，矫正为正视角的、工整的电子笔记。 
+跳转：https://smart-note-scanner-disnk87snsdnjeqm7mtynv.streamlit.app/   
 ## ✨ 功能特点  
 * **🖱️ 交互式选点**：通过鼠标点击图片上的四个顶点（左上、右上、右下、左下），直观地确定矫正区域。  
 * **📐 自动透视变换**：基于 OpenCV 的 `getPerspectiveTransform` 算法，实现高质量的图像拉伸与矫正。  
