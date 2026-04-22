@@ -11,7 +11,7 @@
 ### 本地运行  
 1. **克隆项目**  
    ```bash  
-   git clone [https://github.com/agptz483/Smart-Note-Scanner.git](https://github.com/agptz483/Smart-Note-Scanner.git)  
+   git clone https://github.com/agptz483/Smart-Note-Scanner.git 
    cd 你的仓库名  
    ```
 2. **安装依赖**  
